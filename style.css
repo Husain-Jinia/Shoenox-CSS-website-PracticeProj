@@ -37,7 +37,7 @@ a{
 
 
 #info li{
-    padding: 10px;
+    padding: 20px;
     font-family: sans-serif;
     font-weight: 700;
     font-size: 18px;
@@ -175,7 +175,7 @@ a{
     margin-right: 50px;
     border: black 3px solid;
     margin-top: 40px;
-    background-color: rgba(163, 165, 196, 0.6);
+    background-color: rgba(218, 56, 35, 0.6);
 }
 
 .c{
